@@ -6,7 +6,6 @@ description: Have non-technical people update Jekyll sites
 categories:
   - dashboard-basics
 resources:
-  - name: How to verify your ID
 type: Video
 set: getting-started
 set_order: 1
