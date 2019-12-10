@@ -7,6 +7,7 @@ categories:
   - dashboard-basics
 resources:
 type: Video
+set: getting-started
 set_order: 2
 ---
 
