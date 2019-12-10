@@ -1,4 +1,4 @@
-# Base
+# Knowledge Base
 
 Knowledge base template for Jekyll. Browse through a [live demo](https://orange-ape.cloudvent.net/).
 
