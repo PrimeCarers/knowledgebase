@@ -7,14 +7,17 @@ categories:
   - dashboard-basics
 resources:
 type: Video
-set: getting-started
+set: Managing your care
 set_order: 2
 ---
 
-## What is PrimeCarers?
+## How to book a visit
 
-PrimeCarers is an introductory service for clients and carers. We ID and background check carers before advertising them to clients looking for care. We want to make it easier and safer to find private carers online.
-
-## Finding a Carer
-
-To begin, we need to head to primecarers.co.uk and enter a postcode or location into the search field.
+Booking visits is essential to making PrimeCarers work for you. By booking a visits you let the carer know what will be asked of them, when and where. It will also initiate the contract between you and the carer, Insurance and Payments.
+ - Hit the book visit button
+ - Select your carer
+ - Select the type of care you need
+ - Select the times and dates required
+ - Review your order
+ - Confirm and book you visit
+If you have any questions, email us on admin@primecarers.co.uk or give us a call on 02033693624
