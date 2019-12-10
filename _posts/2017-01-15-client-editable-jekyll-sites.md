@@ -17,7 +17,7 @@ set_order: 1
 
 ## What is PrimeCarers?
 
-PrimeCarers is an inroductory service for clients and carers. We ID and background check carers before advertising them to clients looking for care. We want to make it easier and safer to find private carers online.
+PrimeCarers is an introductory service for clients and carers. We ID and background check carers before advertising them to clients looking for care. We want to make it easier and safer to find private carers online.
 
 ## Finding a Carer
 
