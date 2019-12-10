@@ -1,6 +1,6 @@
 ---
 date: 2019-12-09
-title: How to book a visit
+title: How to chat to carers
 video_id: 63aKlilMO0o
 description: Visit booking
 categories:
@@ -8,17 +8,20 @@ categories:
 resources:
 type: Video
 set: Managing your care
-set_order: 2
+set_order: 1
 ---
 
-## How to book a visit
+## How to speak with your carers
 
-Booking visits is essential to making PrimeCarers work for you. By booking a visits you let the carer know what will be asked of them, when and where. It will also initiate the contract between you and the carer, Insurance and Payments.
- - Hit the book visit button
- - Select your carer
- - Select the type of care you need
- - Select the times and dates required
- - Review your order
- - Confirm and book you visit
+Chatting you your carer is the first thing you will do on the platform. Getting to know them, and whether they will be someone you want to work with is incredibly important. It is also important to understand whether or not they can do the job and are available to do it.
+When you first get in touch:
+ - Let them know what you need
+ - Let them know what times you need it (remember to indicate whether those times are flexible)
+ - Ask them if they are comfortable with what has been described
+
+ Arrange an introductory visit
+ - Suggest a couple of times for you to meet where the care will be delivered
+ - Agree on a time and date
+ - Hit "Book intro visit" to book the interview and select the time and date agreed
 
 If you have any questions, email us on admin@primecarers.co.uk or give us a call on 02033693624
