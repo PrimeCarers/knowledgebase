@@ -2,13 +2,13 @@
 date: 2019-12-09
 title: How to book a visit
 video_id: 63aKlilMO0o
-description: Visit booking
+description: Have non-technical people update Jekyll sites
 categories:
-  - dashboard-basics22
+  - dashboard-basics
 resources:
 type: Video
-set: getting-started 2
-set_order: 2
+set: getting-started
+set_order: 1
 ---
 
 ## What is PrimeCarers?
