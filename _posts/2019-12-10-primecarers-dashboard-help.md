@@ -6,10 +6,7 @@ description: Have non-technical people update Jekyll sites
 categories:
   - dashboard-basics
 resources:
-  - name: Source code
-    link: https://github.com/CloudCannon/creative-jekyll-theme/
-  - name: CloudCannon
-    link: https://cloudcannon.com
+  - name: How to verify your ID
 type: Video
 set: getting-started
 set_order: 1
