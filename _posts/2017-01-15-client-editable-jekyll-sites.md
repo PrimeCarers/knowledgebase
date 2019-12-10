@@ -4,7 +4,7 @@ title: Introduction
 video_id: qxoDo-a8dx8
 description: Have non-technical people update Jekyll sites
 categories:
-  - Getting Started
+  - getting-started
 resources:
   - name: Source code
     link: https://github.com/CloudCannon/creative-jekyll-theme/
