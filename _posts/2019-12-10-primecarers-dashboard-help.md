@@ -3,7 +3,7 @@ date: 2019-12-09
 title: How to book a visit
 description: Have non-technical people update Jekyll sites
 categories:
-  - getting-started
+  - dashboard-basics
 resources:
   - name: Source code
     link: https://github.com/CloudCannon/creative-jekyll-theme/
