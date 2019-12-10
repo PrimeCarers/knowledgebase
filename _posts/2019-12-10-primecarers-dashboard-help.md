@@ -1,7 +1,6 @@
 ---
-date: 2019-12-10
-title: Introduction
-video_id: qxoDo-a8dx8
+date: 2019-12-09
+title: How to book a visit
 description: Have non-technical people update Jekyll sites
 categories:
   - getting-started
@@ -10,7 +9,7 @@ resources:
     link: https://github.com/CloudCannon/creative-jekyll-theme/
   - name: CloudCannon
     link: https://cloudcannon.com
-type: Video
+type: Document
 set: getting-started
 set_order: 1
 ---
