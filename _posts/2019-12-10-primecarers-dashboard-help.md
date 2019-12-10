@@ -4,10 +4,10 @@ title: How to book a visit
 video_id: 63aKlilMO0o
 description: Visit booking
 categories:
-  - dashboard-basics22
+  - dashboard-basics
 resources:
 type: Video
-set: getting-started 2
+set: getting-started
 set_order: 2
 ---
 
