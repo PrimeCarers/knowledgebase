@@ -1,6 +1,7 @@
 ---
 date: 2019-12-09
 title: How to book a visit
+video_id: 63aKlilMO0o
 description: Have non-technical people update Jekyll sites
 categories:
   - dashboard-basics
@@ -9,7 +10,7 @@ resources:
     link: https://github.com/CloudCannon/creative-jekyll-theme/
   - name: CloudCannon
     link: https://cloudcannon.com
-type: Document
+type: Video
 set: getting-started
 set_order: 1
 ---
