@@ -8,7 +8,7 @@ categories:
 resources:
 type: Video
 set: getting-started
-set_order: 1
+set_order: 8
 ---
 
 ## Summary
