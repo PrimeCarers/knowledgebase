@@ -1,25 +1,18 @@
 ---
 date: 2019-12-09
-title: How to book a visit
+title: Managing care with your calendar
 video_id: 63aKlilMO0o
-description: General
+description: Calendar
 categories:
   - dashboard-basics
 resources:
 type: Video
 set: getting-started
-set_order: 2
+set_order: 5
 ---
 
-## How to book a visit
+## Managing care with your calendar
 
-Booking visits is essential to making PrimeCarers work for you. By booking a visits you let the carer know what will be asked of them, when and where. It will also initiate the contract between you and the carer, Insurance and Payments.
-
-Hit the book visit button
- - Select your carer
- - Select the type of care you need
- - Select the times and dates required
- - Review your order
- - Confirm and book you visit
+Your calendar shows you who is doing what and when. From it you can see what visits are occuring, what time they are booked in and who is going to be there. By clicking into a visit in the future, you can see what is planned and and how much it costs. By clicking a visit in the past you can see what the carer wrote about the visit, so you know what happened so you can spot any positive or negative trends.
 
 If you have any questions, email us on admin@primecarers.co.uk or give us a call on 02033693624

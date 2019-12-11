@@ -2,16 +2,16 @@
 date: 2019-12-09
 title: How to chat to carers
 video_id: 63aKlilMO0o
-description: Visit booking
+description: Chatting to carers
 categories:
   - dashboard-basics
 resources:
 type: Video
 set: Managing your care
-set_order: 1
+set_order: 2
 ---
 
-## How to speak with your carers
+## How to chat with your carers
 
 Chatting you your carer is the first thing you will do on the platform. Getting to know them, and whether they will be someone you want to work with is incredibly important. It is also important to understand whether or not they can do the job and are available to do it.
 When you first get in touch:

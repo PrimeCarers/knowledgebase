@@ -2,7 +2,7 @@
 date: 2019-12-09
 title: Patient details and medications
 video_id: 63aKlilMO0o
-description: General overview
+description: Patient details
 categories:
   - dashboard-basics
 resources:

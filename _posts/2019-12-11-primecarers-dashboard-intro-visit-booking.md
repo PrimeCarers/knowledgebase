@@ -1,23 +1,24 @@
 ---
 date: 2019-12-09
-title: How to book a visit
+title: How to book an introductory visit
 video_id: 63aKlilMO0o
-description: General
+description: Introductory visit booking
 categories:
   - dashboard-basics
 resources:
 type: Video
 set: getting-started
-set_order: 2
+set_order: 3
 ---
 
-## How to book a visit
+## How to book an introductory visit
 
-Booking visits is essential to making PrimeCarers work for you. By booking a visits you let the carer know what will be asked of them, when and where. It will also initiate the contract between you and the carer, Insurance and Payments.
+Booking introductory visits, at a time and date agreed with your carers, allows you to meet them and, together, find out whether the relationship will work for you, your family and the carer. To book an introductory visit:
 
 Hit the book visit button
- - Select your carer
- - Select the type of care you need
+ - Go to Chat
+ - Enter your payment details, if you haven't already - Intro visits are free, however for carer safety we do require that you enter payment details before they visit you. No payment will be taken
+ - Select your carer, and the time and date you both agree on for your introductory visit
  - Select the times and dates required
  - Review your order
  - Confirm and book you visit
