@@ -4,7 +4,7 @@ title: How insurance works
 video_id: 63aKlilMO0o
 description: Summary of how insurance works
 categories:
-  - FAQ
+  - Help & FAQ
 resources:
 type: Document
 set: FAQ
