@@ -4,7 +4,7 @@ title: Issue reporting
 video_id: 63aKlilMO0o
 description: Issue reporting
 categories:
-  - more-dashboard-actions
+  - dashboard-details
 resources:
 type: Video
 set: managing-your-care

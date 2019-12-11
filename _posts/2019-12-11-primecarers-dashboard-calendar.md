@@ -4,7 +4,7 @@ title: Managing care with your calendar
 video_id: 63aKlilMO0o
 description: Calendar
 categories:
-  - more-dashboard-actions
+  - dashboard-details
 resources:
 type: Video
 set: managing-your-care

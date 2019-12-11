@@ -4,7 +4,7 @@ title: Overview of your account
 video_id: 63aKlilMO0o
 description: General overview
 categories:
-  - dashboard-basics
+  - dashboard-overview
 resources:
 type: Video
 set: getting-started

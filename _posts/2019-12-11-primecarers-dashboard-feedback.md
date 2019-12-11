@@ -4,7 +4,7 @@ title: How to give your carer public feedback
 video_id: 63aKlilMO0o
 description: Feeding back on carers
 categories:
-  - more-dashboard-actions
+  - dashboard-details
 resources:
 type: Video
 set: managing-your-care

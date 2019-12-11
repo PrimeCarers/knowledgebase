@@ -4,7 +4,7 @@ title: How to book an introductory visit
 video_id: 63aKlilMO0o
 description: Introductory visit booking
 categories:
-  - dashboard-basics
+  - dashboard-overview
 resources:
 type: Video
 set: getting-started

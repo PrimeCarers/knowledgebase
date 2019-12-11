@@ -4,7 +4,7 @@ title: How to chat to carers
 video_id: 63aKlilMO0o
 description: Chatting to carers
 categories:
-  - dashboard-basics
+  - dashboard-overview
 resources:
 type: Video
 set: getting-started

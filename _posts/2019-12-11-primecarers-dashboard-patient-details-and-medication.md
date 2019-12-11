@@ -4,7 +4,7 @@ title: Patient details and medications
 video_id: 63aKlilMO0o
 description: Patient details
 categories:
-  - more-dashboard-actions
+  - dashboard-details
 resources:
 type: Video
 set: managing-your-care
