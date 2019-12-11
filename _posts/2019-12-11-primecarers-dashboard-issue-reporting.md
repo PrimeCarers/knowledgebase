@@ -4,11 +4,11 @@ title: Issue reporting
 video_id: 63aKlilMO0o
 description: Issue reporting
 categories:
-  - dashboard-basics
+  - more-dashboard-actions
 resources:
 type: Video
-set: getting-started
-set_order: 8
+set: managing-your-care
+set_order: 4
 ---
 
 ## Issue reporting

@@ -4,11 +4,11 @@ title: Patient details and medications
 video_id: 63aKlilMO0o
 description: Patient details
 categories:
-  - dashboard-basics
+  - more-dashboard-actions
 resources:
 type: Video
-set: getting-started
-set_order: 7
+set: managing-your-care
+set_order: 3
 ---
 
 ## Patient details and medications
