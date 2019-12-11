@@ -1,5 +1,5 @@
 ---
-date: 2019-12-09
+date: 2019-12-02
 title: How insurance works
 video_id: 63aKlilMO0o
 description: Summary of how insurance works

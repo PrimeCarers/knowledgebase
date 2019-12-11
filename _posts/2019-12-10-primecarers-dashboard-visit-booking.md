@@ -1,5 +1,5 @@
 ---
-date: 2019-12-09
+date: 2019-12-04
 title: How to book a visit
 video_id: 63aKlilMO0o
 description: Visit booking

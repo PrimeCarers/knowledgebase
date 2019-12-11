@@ -1,5 +1,5 @@
 ---
-date: 2019-12-09
+date: 2019-12-01
 title: How payments work
 video_id: 63aKlilMO0o
 description: Summary of how payments work

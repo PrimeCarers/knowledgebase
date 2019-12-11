@@ -1,5 +1,5 @@
 ---
-date: 2019-12-09
+date: 2019-12-03
 title: How to book an intro visit
 video_id: 63aKlilMO0o
 description: Introductory visit booking
