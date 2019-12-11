@@ -1,21 +1,36 @@
 ---
 faq:
-  - question: What is Jekyll?
-    answer: Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.
-  - question: What is front matter?
-    answer: The front matter is where Jekyll starts to get really cool. Any file that contains a YAML front matter block will be processed by Jekyll as a special file. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines
-  - question: What is a static file?
-    answer: A static file is a file that does not contain any YAML front matter. These include images, PDFs, and other un-rendered content.
-  - question: What is a collection?
-    answer: Not everything is a post or a page. Maybe you want to document the various methods in your open source project, members of a team, or talks at a conference. Collections allow you to define a new type of document that behave like Pages or Posts do normally, but also have their own unique properties and namespace.
-  - question: What is a data file?
-    answer: In addition to the built-in variables available from Jekyll, you can specify your own custom data that can be accessed via the Liquid templating system. Jekyll supports loading data from YAML, JSON, and CSV files located in the  `_data` directory. Note that CSV files must contain a header row.
+  - question: Why do you need my card details for the free introductory visit?
+    answer: >
+      <p>You will never be charged for your introductory visit with a potential new carer.</p>
+      <p>Having a valid credit or debit card helps us to ensure the safety of our carers. You are assured that we have confirmed our carers identity, and so we make sure that we only send carers for an initial visit to a property when we are able to trace who made the booking.</p>
+      <p>We think it’s fairer that way.</p>
+  - question: Do I have to use the PrimeCarers Platform to book visits?
+    answer: >
+      <p>Yes, for a number of reasons:</p>
+      <ul>
+        <li>Booking a carer through the site means that your carer and visit is insured. Only carers labelled Home Assistants are not insured. If you needed to claim for a visit that was not booked through the PrimeCarers website then our insurance policy would not review your claim.</li>
+        <li>In the event of a complaint PrimeCarers would not investigate or mediate. </li>
+        <li>Should you want a refund PrimeCarers would not be able to refund your money.</li>
+      </ul>
+      <p>Using the PrimeCarers website for booking makes sense – it keeps you and your carer safe, it helps your carers track their visits and earnings and also helps them to keep your care plan and visit log up to date.</p>
+  - question: Are the carers self-employed & what does this mean for me?
+    answer: >
+      <p>Yes the Carers are self-employed, contracted to work with you, your relationship is directly with the carer.</p>
+      <p>This means that you can talk to them about what they do, the service they provide and even pricing. When issues arise, you must speak with them first to sort it out. PrimeCarers can offer support in the events that cannot be solved directly. As a client you are not an employer, you do not need to pay taxes or ensure that they do, this is entirely the carers responsibility.</p>
+  - question: What about carer holidays, sickness or cancellations?
+    answer: >
+      <p>When your carer has a planned holiday, you will need to find cover. Search with PrimeCarers to find an alternative carer or the carer may have their own suggestions. When your original planned carer cannot make it to work, for whatever reason, our cancellation policy kicks in. They will not be paid and you will need cover. Search on PrimeCarers and book another carer, if it isn't possible and failing this you can call PrimeCarers on 0203 369 3624 and we will do our best to help you find a carer to cover the shift.</p>
+  - question: What would I do if I want to cancel the carer?
+    answer: >
+      <p>If you cancel within 48 hours of the visit start time, under our cancellation policy, we believe that it is only fair that the carer is still paid.</p>
+      <p>However, if you cancel prior to that, there will be no charge. Simply contact your carer to make the cancellation.</p>
 ---
 
 <h1>FAQ</h1>
 
 <section class="faq">
-	<ul>
+	<ul class="heading">
 		{% for item in page.faq %}
 			<li><a href="#{{ item.question | slugify }}">{{ item.question }}</a></li>
 		{% endfor %}
