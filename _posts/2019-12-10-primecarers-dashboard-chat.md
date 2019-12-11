@@ -11,7 +11,7 @@ set: getting-started
 set_order: 2
 ---
 
-## How to chat with your carers
+## How to chat with carers
 
 Chatting you your carer is the first thing you will want do on the platform. Getting to know them, and whether they will be someone you want to work with is incredibly important. It is also important to understand whether or not they can do the job and are available to do it.
 When you first get in touch:

@@ -11,7 +11,7 @@ set: managing-your-care
 set_order: 3
 ---
 
-## Patient details and medications
+## Patient info & meds
 
 From the patients details section, you can write about the patient. This is shared with carer that you are currently working with. so that you don't have to repeat yourself.
 

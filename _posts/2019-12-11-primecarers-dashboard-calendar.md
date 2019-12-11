@@ -11,7 +11,7 @@ set: managing-your-care
 set_order: 1
 ---
 
-## Managing care with your calendar
+## Managing your calendar
 
 Your calendar shows you who is doing what and when. From it you can see what visits are occuring, what time they are booked in and who is going to be there. By clicking into a visit in the future, you can see what is planned and and how much it costs. By clicking a visit in the past you can see what the carer wrote about the visit, so you know what happened so you can spot any positive or negative trends.
 

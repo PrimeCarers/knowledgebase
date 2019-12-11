@@ -11,7 +11,7 @@ set: getting-started
 set_order: 1
 ---
 
-## Summary
+## Account Summary
 
 From your logged-in account, you can manage all aspect of care. From messaging carers, to finding more and everything in-between. Us this are to:
  - Chat to your carers - To see if they are right for you
