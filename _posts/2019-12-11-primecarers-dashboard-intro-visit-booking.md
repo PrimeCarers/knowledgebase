@@ -1,6 +1,6 @@
 ---
 date: 2019-12-09
-title: How to book an intro visit
+title: How to book an introductory visit
 video_id: 63aKlilMO0o
 description: Introductory visit booking
 categories:
@@ -11,7 +11,7 @@ set: getting-started
 set_order: 3
 ---
 
-## How to book an introductory visit
+## How to book an intro visit
 
 Booking introductory visits, at a time and date agreed with your carers, allows you to meet them and, together, find out whether the relationship will work for you, your family and the carer. To book an introductory visit:
 
