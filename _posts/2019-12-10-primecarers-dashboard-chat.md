@@ -7,7 +7,7 @@ categories:
   - dashboard-basics
 resources:
 type: Video
-set: Managing your care
+set: getting-started
 set_order: 2
 ---
 
