@@ -1,6 +1,6 @@
 ---
 date: 2019-12-09
-title: How payments work
+title: How insurance works
 video_id: 63aKlilMO0o
 description: Summary of how insurance works
 categories:
