@@ -26,6 +26,9 @@ timezone: Etc/UTC
 
 permalink: /:categories/:title/
 
+permalinks:
+  category: /category/:name/
+
 plugins:
   - jekyll-extract-element
   - jekyll-sitemap
@@ -47,9 +50,9 @@ exclude:
 collections:
   sets:
 
-
-jekyll-archives:
-  enabled: ['categories']
+category_archive:
+  type: liquid
+  path: /category/
 
 defaults:
   -
