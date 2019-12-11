@@ -1,6 +1,6 @@
 ---
 date: 2019-12-09
-title: Patient details and medications
+title: Patient info & meds
 video_id: 63aKlilMO0o
 description: Patient details
 categories:
@@ -11,7 +11,7 @@ set: managing-your-care
 set_order: 3
 ---
 
-## Patient info & meds
+## Patient details and medications
 
 From the patients details section, you can write about the patient. This is shared with carer that you are currently working with. so that you don't have to repeat yourself.
 
