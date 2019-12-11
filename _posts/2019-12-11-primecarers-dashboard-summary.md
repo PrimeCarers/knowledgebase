@@ -1,25 +1,26 @@
 ---
 date: 2019-12-09
-title: How to book a visit
+title: Overview of your account
 video_id: 63aKlilMO0o
-description: General
+description: General overview
 categories:
   - dashboard-basics
 resources:
 type: Video
 set: getting-started
-set_order: 2
+set_order: 1
 ---
 
-## How to book a visit
+## Summary
 
-Booking visits is essential to making PrimeCarers work for you. By booking a visits you let the carer know what will be asked of them, when and where. It will also initiate the contract between you and the carer, Insurance and Payments.
-
-Hit the book visit button
- - Select your carer
- - Select the type of care you need
- - Select the times and dates required
- - Review your order
- - Confirm and book you visit
+From your logged-in account, you can manage all aspect of care. From messaging carers, to finding more and everything in-between. Us this are to:
+ - Chat to your carers - To see if they are right for you
+ - Book introductory visits - Meeting and interviewing carers
+ - Book paid visits - Paying for the care
+ - Manage your calendar - Who is doing what and when
+ - Feedback of your carers - Leave them public feedback to others know how great they agreed
+ - Manage patient details - Share everything about the patient, so you don't have to repeat yourself
+ - Manage payments - See who has been paid and how much
+ - Report issues - Share any issues with the team, so we can help you
 
 If you have any questions, email us on admin@primecarers.co.uk or give us a call on 02033693624
