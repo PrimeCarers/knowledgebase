@@ -1,6 +1,6 @@
 ---
 date: 2019-12-09
-title: How to book an introductory visit
+title: How to book an intro visit
 video_id: 63aKlilMO0o
 description: Introductory visit booking
 categories:
