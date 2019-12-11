@@ -4,7 +4,7 @@ title: How payments work
 video_id: 63aKlilMO0o
 description: Summary of how payments work
 categories:
-  - Billing
+  - FAQ
 resources:
 type: Document
 set: FAQ
