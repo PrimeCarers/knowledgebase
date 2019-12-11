@@ -6,7 +6,7 @@ description: Patient details
 categories:
   - dashboard-detail
 resources:
-type: Video
+type: Document
 set: managing-your-care
 set_order: 3
 ---

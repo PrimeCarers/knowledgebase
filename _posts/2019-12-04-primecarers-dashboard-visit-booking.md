@@ -6,7 +6,7 @@ description: Visit booking
 categories:
   - dashboard-overview
 resources:
-type: Video
+type: Document
 set: getting-started
 set_order: 4
 ---

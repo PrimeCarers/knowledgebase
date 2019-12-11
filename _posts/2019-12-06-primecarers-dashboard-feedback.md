@@ -6,7 +6,7 @@ description: Feeding back on carers
 categories:
   - dashboard-detail
 resources:
-type: Video
+type: Document
 set: managing-your-care
 set_order: 2
 ---

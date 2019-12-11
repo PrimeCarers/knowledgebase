@@ -6,7 +6,7 @@ description: General overview
 categories:
   - dashboard-overview
 resources:
-type: Video
+type: Document
 set: getting-started
 set_order: 1
 ---
