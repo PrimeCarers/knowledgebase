@@ -13,7 +13,7 @@ set_order: 1
 
 ## Account Summary
 
-From your logged-in account, you can manage all aspect of care. From messaging carers, to finding more and everything in-between. Us this are to:
+From your logged-in account, you can manage all aspect of care. From messaging carers, to finding more and everything in-between. Use this are to:
  - Chat to your carers - To see if they are right for you
  - Book introductory visits - Meeting and interviewing carers
  - Book paid visits - Paying for the care
