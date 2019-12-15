@@ -1,12 +1,12 @@
 ---
 date: 2019-12-01
 title: Overview of your account
-video_id: 63aKlilMO0o
+video_id: rZR9gE8sclE
 description: General overview
 categories:
   - dashboard-overview
 resources:
-type: Document
+type: Video
 set: getting-started
 set_order: 1
 ---
